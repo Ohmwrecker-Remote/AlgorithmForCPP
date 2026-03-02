@@ -15,7 +15,7 @@ int main() {
 	ISBNNUM[5] = ISBN[7];
 	ISBNNUM[6] = ISBN[8];
 	ISBNNUM[7] = ISBN[9];
-  ISBNNUM[8] = ISBN[10];
+	ISBNNUM[8] = ISBN[10];
 	ISBNNUM[9] = ISBN[12];
 	for (int i = 0; i < 9; i++) {
 		sum += (int)(ISBNNUM[i] - 48) * (i + 1);
