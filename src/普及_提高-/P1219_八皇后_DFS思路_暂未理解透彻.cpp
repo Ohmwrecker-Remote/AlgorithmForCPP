@@ -65,8 +65,11 @@ void search(int row, int col, std::vector<int>& board, int n, int& count) {
 		for (int i = 1; i < n; i++) {
 			// DFS思路重点，暂未理解
 			if (!isOccupied(row, i, board, n)) {
+				// 首先占领，然后进入递归
 				Place(row, i, board, n, count);
+				// 进入递归后，若是row超出层数，且未找到n个落点则跳出该层递归
 				search(row + 1, i, board, n, count);
+				// 回溯，释放占领的位置
 				disPlace(row, i, board, n, count);
 			}
 		}
@@ -81,6 +84,6 @@ int main() {
 	n += 1;
 	int count = 0;
 	std::vector<int> board(n, 0);
-	search(1, 2, board, n, count);
+	search(1, 1, board, n, count);
 	std::cout << answer << std::endl;
 }
