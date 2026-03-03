@@ -3,7 +3,22 @@
 // 2:30加借鉴DFS才解决
 static int answer = 0;
 static int outTime = 0;
-void out(std::vector<int>& board, int n);
+
+void out(std::vector<int>& board, int n) {
+	answer++;
+	outTime++;
+	if (outTime <= 3) {
+		for (int i = 1; i < n; i++) {
+			if (i != n - 1) {
+				std::cout << board[i] << " ";
+			}
+			else {
+				std::cout << board[i] << std::endl;
+			}
+		}
+	}
+}
+
 int isOccupied(int row, int col, std::vector<int>& board, int n) {
 	if (board[row] == col) {
 		return true;
@@ -48,7 +63,7 @@ void search(int row, int col, std::vector<int>& board, int n, int& count) {
 	}
 	else {
 		for (int i = 1; i < n; i++) {
-			// DFS思路重点
+			// DFS思路重点，暂未理解
 			if (!isOccupied(row, i, board, n)) {
 				Place(row, i, board, n, count);
 				search(row + 1, i, board, n, count);
@@ -59,20 +74,6 @@ void search(int row, int col, std::vector<int>& board, int n, int& count) {
 }
 
 
-void out(std::vector<int>& board, int n ) {
-	answer++;
-	outTime++;
-	if (outTime <= 3) {
-		for (int i = 1; i < n; i++) {
-			if (i != n - 1) {
-				std::cout << board[i] << " ";
-			}
-			else {
-				std::cout << board[i] << std::endl;
-			}
-		}
-	}
-}
 
 int main() {
 	int n = 0;
