@@ -108,7 +108,7 @@
     <ClCompile Include="src\题单101\P1055_字符串操作细节.cpp">
       <Filter>题单101</Filter>
     </ClCompile>
-    <ClCompile Include="src\普及_提高-\P1219_八皇后_DFS思路_暂未理解透彻.cpp">
+    <ClCompile Include="src\普及_提高-\P1219_八皇后_DFS思路.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
