@@ -158,6 +158,9 @@
     <ClCompile Include="src\题单101\P5716.cpp" />
     <ClCompile Include="src\题单101\P5716_数组排序.cpp" />
     <ClCompile Include="src\题单101\P5717_三角形判定.cpp" />
+    <ClCompile Include="src\题单102\P1075.cpp" />
+    <ClCompile Include="src\题单102\P1217.cpp" />
+    <ClCompile Include="src\题单102\P5726.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
