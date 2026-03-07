@@ -176,7 +176,11 @@
     <ClCompile Include="src\题单103_数组\P2615_幻方_二维数组操作.cpp" />
     <ClCompile Include="src\题单103_数组\P5730_显示屏_二维string数组实现.cpp" />
     <ClCompile Include="src\题单104_字符串\P1125.cpp" />
+    <ClCompile Include="src\题单104_字符串\P1308_寻找字符串.cpp" />
+    <ClCompile Include="src\题单104_字符串\P1553.cpp" />
+    <ClCompile Include="src\题单104_字符串\P1603.cpp" />
     <ClCompile Include="src\题单104_字符串\P1957.cpp" />
+    <ClCompile Include="src\题单104_字符串\P5734_字符串操作.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
