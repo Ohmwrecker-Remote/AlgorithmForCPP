@@ -128,15 +128,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\提单102\P1009.cpp" />
-    <ClCompile Include="src\提单102\P1035.cpp" />
-    <ClCompile Include="src\提单102\P1980.cpp" />
-    <ClCompile Include="src\提单102\P2669.cpp" />
-    <ClCompile Include="src\提单102\P5718_迭代器使用.cpp" />
-    <ClCompile Include="src\提单102\P5719.cpp" />
-    <ClCompile Include="src\提单102\P5720.cpp" />
-    <ClCompile Include="src\提单102\P5721.cpp" />
-    <ClCompile Include="src\提单102\P5723.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P1009.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P1035.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P1980.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P2669.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P5718_迭代器使用.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P5719.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P5720.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P5721.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P5723.cpp" />
     <ClCompile Include="src\普及_提高-\P1219_八皇后_DFS思路.cpp" />
     <ClCompile Include="src\题单100_顺序结构\B2005.cpp" />
     <ClCompile Include="src\题单100_顺序结构\B2029.cpp" />
