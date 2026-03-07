@@ -128,6 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\提单105\P5736_质数筛.cpp" />
+    <ClCompile Include="src\提单105\P5738.cpp" />
     <ClCompile Include="src\题单102_循环结构\P1009.cpp" />
     <ClCompile Include="src\题单102_循环结构\P1035.cpp" />
     <ClCompile Include="src\题单102_循环结构\P1980.cpp" />
@@ -177,7 +179,8 @@
     <ClCompile Include="src\题单103_数组\P5730_显示屏_二维string数组实现.cpp" />
     <ClCompile Include="src\题单104_字符串\P1125.cpp" />
     <ClCompile Include="src\题单104_字符串\P1308_寻找字符串.cpp" />
-    <ClCompile Include="src\题单104_字符串\P1553.cpp" />
+    <ClCompile Include="src\题单104_字符串\P1553_数字翻转.cpp" />
+    <ClCompile Include="src\题单104_字符串\P1598_柱状图输出.cpp" />
     <ClCompile Include="src\题单104_字符串\P1603.cpp" />
     <ClCompile Include="src\题单104_字符串\P1957.cpp" />
     <ClCompile Include="src\题单104_字符串\P5734_字符串操作.cpp" />
