@@ -128,8 +128,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\提单105\P5736_质数筛.cpp" />
-    <ClCompile Include="src\提单105\P5738.cpp" />
+    <ClCompile Include="src\提单105_函数与结构体\P5461.cpp" />
+    <ClCompile Include="src\提单105_函数与结构体\P5736_质数筛.cpp" />
+    <ClCompile Include="src\提单105_函数与结构体\P5738.cpp" />
     <ClCompile Include="src\题单102_循环结构\P1009.cpp" />
     <ClCompile Include="src\题单102_循环结构\P1035.cpp" />
     <ClCompile Include="src\题单102_循环结构\P1980.cpp" />
