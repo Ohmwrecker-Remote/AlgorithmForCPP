@@ -128,7 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\题单105_函数与结构体\P5461.cpp" />
+    <ClCompile Include="src\题单105_函数与结构体\P2415_集合求和_需数学思维.cpp" />
+    <ClCompile Include="src\题单105_函数与结构体\P5461_递归调用.cpp" />
     <ClCompile Include="src\题单105_函数与结构体\P5736_质数筛.cpp" />
     <ClCompile Include="src\题单105_函数与结构体\P5738.cpp" />
     <ClCompile Include="src\题单102_循环结构\P1009.cpp" />
@@ -185,6 +186,13 @@
     <ClCompile Include="src\题单104_字符串\P1603.cpp" />
     <ClCompile Include="src\题单104_字符串\P1957.cpp" />
     <ClCompile Include="src\题单104_字符串\P5734_字符串操作.cpp" />
+    <ClCompile Include="src\题单105_函数与结构体\P5740.cpp" />
+    <ClCompile Include="src\题单105_函数与结构体\P5741.cpp" />
+    <ClCompile Include="src\题单105_函数与结构体\P5742.cpp" />
+    <ClCompile Include="src\题单106_模拟与高精度\P1042.cpp" />
+    <ClCompile Include="src\题单106_模拟与高精度\P1303.cpp" />
+    <ClCompile Include="src\题单106_模拟与高精度\P1563.cpp" />
+    <ClCompile Include="src\题单106_模拟与高精度\P1601_高精度加法_字符串实现.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
