@@ -24,9 +24,6 @@
     <ClCompile Include="src\普及_提高-\P1219_八皇后_DFS思路.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="src\题单102_循环结构\P1009.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="src\题单102_循环结构\P1035.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -183,10 +180,52 @@
     <ClCompile Include="src\题单104_字符串\P1598_柱状图输出.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="src\提单105\P5736_质数筛.cpp">
+    <ClCompile Include="src\题单105_函数与结构体\P2415_集合求和_需数学思维.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="src\提单105\P5738.cpp">
+    <ClCompile Include="src\题单105_函数与结构体\P5461_递归调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单105_函数与结构体\P5736_质数筛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单105_函数与结构体\P5738.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单102_循环结构\P1009_阶乘之和_高精度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单105_函数与结构体\P5740.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单105_函数与结构体\P5741.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单105_函数与结构体\P5742.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单106_模拟与高精度\P1042.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单106_模拟与高精度\P1303_高精度乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单106_模拟与高精度\P1563.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单106_模拟与高精度\P1601_高精度加法_字符串实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单106_模拟与高精度\P4924_矩阵内部旋转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单106_模拟与高精度\P1328.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单106_模拟与高精度\P1518_模拟追逐问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单106_模拟与高精度\P1098_字符串展开.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

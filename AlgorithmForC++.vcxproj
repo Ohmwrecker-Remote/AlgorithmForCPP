@@ -190,10 +190,13 @@
     <ClCompile Include="src\题单105_函数与结构体\P5741.cpp" />
     <ClCompile Include="src\题单105_函数与结构体\P5742.cpp" />
     <ClCompile Include="src\题单106_模拟与高精度\P1042.cpp" />
+    <ClCompile Include="src\题单106_模拟与高精度\P1098_字符串展开.cpp" />
     <ClCompile Include="src\题单106_模拟与高精度\P1303_高精度乘法.cpp" />
+    <ClCompile Include="src\题单106_模拟与高精度\P1328.cpp" />
+    <ClCompile Include="src\题单106_模拟与高精度\P1518_模拟追逐问题.cpp" />
     <ClCompile Include="src\题单106_模拟与高精度\P1563.cpp" />
     <ClCompile Include="src\题单106_模拟与高精度\P1601_高精度加法_字符串实现.cpp" />
-    <ClCompile Include="src\题单106_模拟与高精度\P4924.cpp" />
+    <ClCompile Include="src\题单106_模拟与高精度\P4924_矩阵内部旋转.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
