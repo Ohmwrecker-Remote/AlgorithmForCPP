@@ -197,6 +197,11 @@
     <ClCompile Include="src\题单106_模拟与高精度\P1563.cpp" />
     <ClCompile Include="src\题单106_模拟与高精度\P1601_高精度加法_字符串实现.cpp" />
     <ClCompile Include="src\题单106_模拟与高精度\P4924_矩阵内部旋转.cpp" />
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1059.cpp" />
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1104_生日比较_自定义lambda.cpp" />
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1177.cpp" />
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1271.cpp" />
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1923_输入卡常.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

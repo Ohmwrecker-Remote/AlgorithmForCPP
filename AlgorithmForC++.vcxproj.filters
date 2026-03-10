@@ -228,5 +228,20 @@
     <ClCompile Include="src\题单106_模拟与高精度\P1098_字符串展开.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1271.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1177.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1923_输入卡常.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1059.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单107_排序_记得练习快排\P1104_生日比较_自定义lambda.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
