@@ -172,7 +172,7 @@
     <ClCompile Include="src\题单101_分支结构\P5716_数组排序.cpp" />
     <ClCompile Include="src\题单101_分支结构\P5717_三角形判定.cpp" />
     <ClCompile Include="src\题单102_循环结构\P1075.cpp" />
-    <ClCompile Include="src\题单102_循环结构\P1217.cpp" />
+    <ClCompile Include="src\题单102_循环结构\P1217_回文质数_卡常_找规律优化时间.cpp" />
     <ClCompile Include="src\题单102_循环结构\P5726.cpp" />
     <ClCompile Include="src\题单103_数组\P1205_方块转换_字符串数组.cpp" />
     <ClCompile Include="src\题单103_数组\P1789_MC火把.cpp" />
@@ -202,6 +202,7 @@
     <ClCompile Include="src\题单107_排序_记得练习快排\P1177.cpp" />
     <ClCompile Include="src\题单107_排序_记得练习快排\P1271.cpp" />
     <ClCompile Include="src\题单107_排序_记得练习快排\P1923_输入卡常.cpp" />
+    <ClCompile Include="src\题单108_暴力枚举\P2241.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

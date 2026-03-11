@@ -138,7 +138,7 @@
     <ClCompile Include="src\题单102_循环结构\P1075.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="src\题单102_循环结构\P1217.cpp">
+    <ClCompile Include="src\题单102_循环结构\P1217_回文质数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="src\题单102_循环结构\P5726.cpp">

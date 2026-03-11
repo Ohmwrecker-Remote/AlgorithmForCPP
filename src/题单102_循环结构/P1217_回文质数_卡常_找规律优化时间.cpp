@@ -24,11 +24,15 @@
 //	int isPalindrome = 1;
 //	std::string judgeString;
 //	std::cin >> start >> end;
-//	auto timeStart = std::chrono::high_resolution_clock::now();
+//	//auto timeStart = std::chrono::high_resolution_clock::now();
 //	std::ios::sync_with_stdio(0);
 //	// 先判断回文再判断质数，因为回文数数量小于质数
 //	for (int i = start; i <= end; i++) {
 //		if (i >= 100000 && i < 1000000) {
+//			continue;
+//		}
+//		// 当数字在一千万以上时，观察发现没有既是质数又是回文的数字所以直接跳过
+//		if (i >= 10000000 && i < 100000000) {
 //			continue;
 //		}
 //		judgeString = std::to_string(i);
@@ -49,8 +53,8 @@
 //			}
 //		}
 //	}
-//	auto timeEnd = std::chrono::high_resolution_clock::now();
-//	std::chrono::duration<double, std::milli> timeCost = timeEnd - timeStart;
-//	std::cout << "Time cost: " << timeCost.count() << " ms" << std::endl;
+//	//auto timeEnd = std::chrono::high_resolution_clock::now();
+//	//std::chrono::duration<double, std::milli> timeCost = timeEnd - timeStart;
+//	//std::cout << "Time cost: " << timeCost.count() << " ms" << std::endl;
 //}
 //
