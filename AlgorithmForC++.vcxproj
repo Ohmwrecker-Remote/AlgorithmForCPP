@@ -202,7 +202,15 @@
     <ClCompile Include="src\题单107_排序_记得练习快排\P1177.cpp" />
     <ClCompile Include="src\题单107_排序_记得练习快排\P1271.cpp" />
     <ClCompile Include="src\题单107_排序_记得练习快排\P1923_输入卡常.cpp" />
-    <ClCompile Include="src\题单108_暴力枚举\P2241.cpp" />
+    <ClCompile Include="src\题单108_暴力枚举\P1036_选数_dfs.cpp" />
+    <ClCompile Include="src\题单108_暴力枚举\P1157_组合输出.cpp" />
+    <ClCompile Include="src\题单108_暴力枚举\P1618_三连击.cpp" />
+    <ClCompile Include="src\题单108_暴力枚举\P1706_全排列问题._dfs.cpp" />
+    <ClCompile Include="src\题单108_暴力枚举\P2089_烤鸡.cpp" />
+    <ClCompile Include="src\题单108_暴力枚举\P2241_统计方形.cpp" />
+    <ClCompile Include="src\题单108_暴力枚举\P3799_拼木棒.cpp" />
+    <ClCompile Include="src\题单109_递归与递推\P1464_记忆化搜索.cpp" />
+    <ClCompile Include="src\题单109_递归与递推\P1928_外星密码_80.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

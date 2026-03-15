@@ -138,9 +138,6 @@
     <ClCompile Include="src\题单102_循环结构\P1075.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="src\题单102_循环结构\P1217_回文质数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="src\题单102_循环结构\P5726.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -241,6 +238,36 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="src\题单107_排序_记得练习快排\P1104_生日比较_自定义lambda.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单102_循环结构\P1217_回文质数_卡常_找规律优化时间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单108_暴力枚举\P2241_统计方形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单108_暴力枚举\P2089_烤鸡.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单108_暴力枚举\P1618_三连击.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单108_暴力枚举\P1036_选数_dfs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单108_暴力枚举\P1706_全排列问题._dfs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单108_暴力枚举\P1157_组合输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单108_暴力枚举\P3799_拼木棒.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单109_递归与递推\P1928_外星密码_80.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\题单109_递归与递推\P1464_记忆化搜索.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
